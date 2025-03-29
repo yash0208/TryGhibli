@@ -41,7 +41,7 @@ pip install torch diffusers pillow
 python ghibli_style.py input.jpg
 ```
 
-2. **Example Code** (Included in `ghibli_style.py`)
+2. **Example Code** (Included in `main.py`)
 ```python
 import torch
 from diffusers import StableDiffusionImg2ImgPipeline
